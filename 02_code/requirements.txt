@@ -1,0 +1,9 @@
+# Python 3.11.9
+openai
+streamlit
+pandas
+torch
+transformers
+scikit-learn
+faiss-cpu
+sentence-transformers
